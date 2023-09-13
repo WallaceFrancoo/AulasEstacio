@@ -8,5 +8,8 @@ Arrays_001 = Como criar uma Array e acrescentar utilizando o append ou o insert
 Arrays_002 =  Utilizando o POP e o REMOVE!
 Arrays_003 = Verificar qual é o formato da string utilizando o dtype
 Arrays_004 = Utilizando o copy e o view
+Arrays_005 = Aprendendo sobre Matrizes
+Arrays_006 = Utilizando duas Matrizes para realizar uma média
+
 
 
